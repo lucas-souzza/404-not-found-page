@@ -1,0 +1,8 @@
+html, body {
+    font-size: 10px;
+}
+
+body {
+    min-height: 100vh;
+    background-color: var(--color-bg);
+}
