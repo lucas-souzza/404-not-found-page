@@ -1,6 +1,6 @@
 .footer-container {
-    margin: 11.4rem 0 2.4rem;
     text-align: center;
+    margin-bottom: 2.4rem;
 }
 
 .footer-container > .copyright {
@@ -14,4 +14,10 @@
     text-decoration: none;
     color: var(--color-light-gray);
     font-weight: 700;
+}
+
+@media screen and (min-width: 1024px) {
+    .footer-container > .copyright {
+        font-size: 1.6rem;
+    }
 }
