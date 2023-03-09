@@ -1,0 +1,12 @@
+.copyright {
+    font-family: var(--font-copyright);
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: var(--color-light-gray);
+}
+
+.copyright > .username {
+    text-decoration: none;
+    color: var(--color-light-gray);
+    font-weight: 700;
+}
