@@ -10,8 +10,14 @@
             "banner content"
         ;
         align-items: center;
+        justify-content: space-between;
+        padding: 0 11.9rem 0 7.7rem;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .main-container {
         justify-content: center;
         column-gap: 12rem;
-        padding: 0 7.7rem;
     }
 }
