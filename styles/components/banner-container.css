@@ -1,0 +1,12 @@
+.banner-container {
+    padding: 0 4.4rem;
+    margin: 6.4rem 0 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-container > .image {
+    width: 100%;
+    max-width: 540px;
+}

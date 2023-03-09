@@ -1,11 +1,16 @@
-.copyright {
+.footer-container {
+    margin: 11.4rem 0 2.4rem;
+    text-align: center;
+}
+
+.footer-container > .copyright {
     font-family: var(--font-copyright);
     font-size: 1.4rem;
     font-weight: 500;
     color: var(--color-light-gray);
 }
 
-.copyright > .username {
+.footer-container > .copyright > .username {
     text-decoration: none;
     color: var(--color-light-gray);
     font-weight: 700;

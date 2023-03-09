@@ -1,4 +1,8 @@
-.error-message {
+.header-container {
+    margin: 2.4rem 0 0 2rem;
+}
+
+.header-container > .error-message {
     font-family: var(--font-error-message);
     font-size: 2.4rem;
     font-weight: 700;
