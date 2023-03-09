@@ -28,11 +28,8 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-      - CSS
-      - HTML
 - [Features](#features)
 - [Contact](#contact)
-   - lucas.souza0302@outlook.com
    
 - [Acknowledgements](#acknowledgements)
 
