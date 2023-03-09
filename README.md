@@ -31,20 +31,23 @@
 - [Features](#features)
 - [Contact](#contact)
    
-- [Acknowledgements](#acknowledgements)
-
 <!-- OVERVIEW -->
 
 ## Overview
 
 ![screenshot](https://github.com/lucas-souzza/404-not-found-page/blob/main/images/screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - Where can I see your demo?
+   - [Link](https://...)
 - What was your experience?
+   - I was very happy in the development of this project
 - What have you learned/improved?
+   - With this project I improved my knowledge of HTML and CSS
 - Your wisdom? :)
+   - HTML
+   - CSS
+   - JavaScript
+   - Git and GitHub
 
 ### Built With
 
@@ -60,14 +63,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
 ## Contact
 
-- GitHub [@your-username](https://github.com/lucas-souzza)
-- E-mail [@your-email](lucas.souza0302@outlook.com)
+- GitHub [@lucas-souzza](https://github.com/lucas-souzza)
+- E-mail [lucas.souza0302@outlook.com](lucas.souza0302@outlook.com)
