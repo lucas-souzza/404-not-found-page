@@ -16,16 +16,12 @@
     <link rel="stylesheet" href="./styles/settings/fonts.css">
     <link rel="stylesheet" href="./styles/elements/base.css">
 
-    <link rel="stylesheet" href="./styles/components/header/header-container.css">
-    <link rel="stylesheet" href="./styles/components/header/error-message.css">
-    <link rel="stylesheet" href="./styles/components/banner/banner-container.css">
-    <link rel="stylesheet" href="./styles/components/banner/image.css">
-    <link rel="stylesheet" href="./styles/components/main/main-container.css">
-    <link rel="stylesheet" href="./styles/components/main/title.css">
-    <link rel="stylesheet" href="./styles/components/main/text.css">
-    <link rel="stylesheet" href="./styles/components/main/button.css">
-    <link rel="stylesheet" href="./styles/components/footer/footer-container.css">
-    <link rel="stylesheet" href="./styles/components/footer/copyright.css">
+    <link rel="stylesheet" href="./styles/components/header-container.css">
+    <link rel="stylesheet" href="./styles/components/main-container.css">
+    <link rel="stylesheet" href="./styles/components/banner-container.css">
+    <link rel="stylesheet" href="./styles/components/content-container.css">
+    <link rel="stylesheet" href="./styles/components/footer-container.css">
+
 
 </head>
 <body>
@@ -33,16 +29,18 @@
         <h2 class="error-message">404 not found</h2>
     </header>
 
-    <section class="banner-container">
-        <img src="./images/Scarecrow.png" alt="Scarecrow image" class="image">
-    </section>
-
     <main class="main-container"> 
-        <h1 class="title">I have bad news for you</h1>
+        <section class="banner-container">
+            <img src="./images/Scarecrow.png" alt="Scarecrow image" class="image">
+        </section>
 
-        <p class="text">The page you are looking for might be removed or is temporarily unavailable</p>
+        <section class="content-container">
+            <h1 class="title">I have bad news for you</h1>
 
-        <a href="#" class="button">Back to homepage</a>
+            <p class="text">The page you are looking for might be removed or is temporarily unavailable</p>
+
+            <a href="#" class="button">Back to homepage</a>
+        </section>   
     </main>
 
     <footer class="footer-container"> 
